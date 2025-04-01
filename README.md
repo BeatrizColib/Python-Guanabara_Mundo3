@@ -31,9 +31,12 @@ Clone o repositório:
 ```bash
 git clone https://github.com/BeatrizColib/Python-Guanabara_Mundo3.git
 
-✍️ Autor
-Feito com dedicação por Ana Beatriz Colib
-📧 LinkedIn | GitHub
+## ✍️ Autor
+
+Feito com dedicação por **Ana Beatriz Colib**
+
+📎 [GitHub](https://github.com/BeatrizColib)  
+📎 [LinkedIn](https://www.linkedin.com/in/beatrizbelmiro/)
 
 🎓 Créditos
-[Curso em Vídeo](https://www.cursoemvideo.com/)
+Veja o curso completo em [Curso em Vídeo](https://www.cursoemvideo.com/)
