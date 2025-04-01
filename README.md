@@ -36,4 +36,4 @@ Feito com dedicação por Ana Beatriz Colib
 📧 LinkedIn | GitHub
 
 🎓 Créditos
-Curso ministrado por **Gustavo Guanabara** – [Curso em Vídeo](https://www.cursoemvideo.com/)
+[Curso em Vídeo](https://www.cursoemvideo.com/)
