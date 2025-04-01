@@ -27,8 +27,6 @@ ex002.py → Segundo exercício, e assim por diante...
 ## 💡 Como usar
 
 Clone o repositório:
-
-```bash
 git clone https://github.com/BeatrizColib/Python-Guanabara_Mundo3.git
 
 ## ✍️ Autor
